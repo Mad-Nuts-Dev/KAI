@@ -129,7 +129,7 @@ class OfflineSpeechRecognizer:
 # 4. ARDUINO EXG WITH CSV DATASET & PERSISTENCE
 # ==========================================
 class PersistentEXGEngine:
-    def __init__(self, port="COM10", baudrate=115200, sampling_rate=100):
+    def __init__(self, port="COM10", baudrate=115200, sampling_rate=512):
         self.port = port
         self.baudrate = baudrate
         self.sampling_rate = sampling_rate
