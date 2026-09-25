@@ -1,0 +1,79 @@
+{
+  "user_profile": {
+    "name": "Officer / Personnel",
+    "baseline_summary": "Initial evaluation profile"
+  },
+  "recurring_stressors": [],
+  "conversation_history": [
+    {
+      "timestamp": "2026-09-20 16:27:15",
+      "user_uttered": "Hello, how are you?",
+      "ai_response": "\"It's great to start our conversation. You're showing a relaxed facial expression, but your bioamp brain state indicates fatigue. How are you feeling today, and what's on your mind?\"",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:27:29",
+      "user_uttered": "Right, the code, right.",
+      "ai_response": "It sounds like you're trying to refocus on the task at hand, but I sense a lingering fatigue. Can you tell me more about what's going through your mind?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Neutral / Focused"
+    },
+    {
+      "timestamp": "2026-09-20 16:27:48",
+      "user_uttered": "I am fighting due to this project.",
+      "ai_response": "\"It sounds like the pressure to deliver on this project is taking a toll on you. You're feeling fatigued, and it's affecting your mental state. Can you tell me more about what's specifically causing you to feel like you're fighting against it?\"",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:28:06",
+      "user_uttered": "Next, let's just like AI do that.  I said I want to...",
+      "ai_response": "I sense you're still feeling fatigued, and your tone suggests a desire to bypass responsibility. Can you tell me more about what you mean by \"AI do that\"? What's making you want to delegate this task?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:45:35",
+      "user_uttered": "Hello, how are you?",
+      "ai_response": "It sounds like you're starting our session with a polite inquiry about my well-being. I appreciate your effort to build a rapport, and I'm here to listen and support you. Can you tell me what's really on your mind and what's been weighing you down lately?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:51:21",
+      "user_uttered": "Hello, how about you?",
+      "ai_response": "I sense you're still feeling fatigued, and it's okay to acknowledge those feelings. Your bioamplifier reading confirms it. Can you tell me more about what's weighing on your mind, making it hard to focus?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Neutral / Focused"
+    },
+    {
+      "timestamp": "2026-09-20 16:51:59",
+      "user_uttered": "Yeah, it's the AI that I'm using to build you.  It's super, you know, I don't like it.  So what do you think by my voice?  Like how I'm something by my voice?",
+      "ai_response": "It sounds like you're expressing frustration with the AI tool, feeling like it's not meeting your expectations. Your voice conveys a sense of resignation, almost as if you're checking in with me to see if I notice your discomfort. Can you tell me more about what specifically bothers you about the AI?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:52:34",
+      "user_uttered": "No, I don't want to go and thank you, she left me through this bag.",
+      "ai_response": "I sense a lingering sense of frustration and exhaustion in your voice. It seems like the AI system is causing you more stress than relief. Can you tell me more about what's bothering you about the AI and how it's affecting your work?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Neutral / Focused"
+    },
+    {
+      "timestamp": "2026-09-20 16:53:09",
+      "user_uttered": "No, it's not about AI, it's about my girlfriend. She left me a few days back.  I am super stressed.",
+      "ai_response": "\"I sense a deep sense of pain and stress in your words. It sounds like you're still reeling from the impact of your girlfriend's departure. Can you tell me more about what's been going through your mind since she left?\"",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    },
+    {
+      "timestamp": "2026-09-20 16:53:37",
+      "user_uttered": "On the deep, on deep grief, I will pain.",
+      "ai_response": "I sense a deeper sense of emotional pain beneath your words. It sounds like you're struggling to cope with the loss of your girlfriend. Can you tell me more about what's been going through your mind since she left?",
+      "eeg_state": "Fatigued",
+      "facial_state": "Smiling / Relaxed"
+    }
+  ]
+}
